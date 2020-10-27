@@ -8,6 +8,11 @@ class WelcomeController < ApplicationController
   def projects
   end
 
+  def starbg
+  end
+
   def about
   end
+
+
 end
